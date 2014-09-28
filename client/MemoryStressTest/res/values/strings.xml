@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">内存测试</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="memory_test_title">[内存测试]</string>
+    <string name="memory_test_size_title">测试内存大小:</string>
+    <string name="memory_test_start">开始测试</string>
+    <string name="memory_test_stop">停止测试</string>
+    <string name="memory_test_size_is_null_alert">请先输入测试内存大小!</string>
+</resources>
